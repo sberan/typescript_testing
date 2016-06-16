@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "module": "es6",
+        "inlineSourceMap": true,
+        "allowJs": true,
+        "outDir": "out/",
+        "noImplicitAny": true,
+        "strictNullChecks": true
+    },
+    "exclude": [
+        "node_modules",
+        "out/"
+    ]
+}
